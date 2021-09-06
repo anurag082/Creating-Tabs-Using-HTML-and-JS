@@ -5,4 +5,5 @@ new line
 qqqqqq
 #new comment
 #errtt
+#wwwww
 ##new patch
