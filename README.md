@@ -1,11 +1,1 @@
-# tabs
-#455
-new line
- bb
- #222
-qqqqqq
-#new comment
-#errtt
-#wwwww
-##new patch
-!!!!
+This repo contains information on creating a tabs option using HTML and JS.
